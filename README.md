@@ -70,17 +70,11 @@ A simple two-player **Tic-Tac-Toe (XO)** game built using Python and playable in
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+## **Contact**
+Feel free to connect if you have any questions or want to collaborate on similar projects!  
+- **Name:** Ali Ebrahim Monir Sakr  
+- **Email:** alimonirsakr@gmail.com  
+- **LinkedIn:** [Ali Monir Sakr](https://www.linkedin.com/in/ali-monir-sakr)  
 
 ---
-
-## 👤 Author
-
-**Ali Ebrahim Monir Sakr**
-📧 [alimonirsakr@gmail.com](mailto:alimonirsakr@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-monir-sakr)
-
-```
 
