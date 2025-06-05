@@ -70,7 +70,7 @@ A simple two-player **Tic-Tac-Toe (XO)** game built using Python and playable in
 
 ---
 
-## **Contact**
+## 👤 **Contact**
 Feel free to connect if you have any questions or want to collaborate on similar projects!  
 - **Name:** Ali Ebrahim Monir Sakr  
 - **Email:** alimonirsakr@gmail.com  
